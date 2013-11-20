@@ -1,4 +1,3 @@
-
 Particle[] planets = new Particle[100];
 float[] randomX = new float[100];
 float[] randomY = new float[100];
